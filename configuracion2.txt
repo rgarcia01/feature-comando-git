@@ -1,3 +1,7 @@
 iniciamos con la configuración
 git status
 78956
+
+
+
+s
