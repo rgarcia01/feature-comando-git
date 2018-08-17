@@ -1,5 +1,0 @@
-iniciamos con la configuración
-git status
-5678
-78956
-
