@@ -87,6 +87,5 @@ If you want to change default branch, it's so easy with github, in your fork go 
 
 https://confluence.atlassian.com/bitbucket/use-a-git-branch-to-merge-a-file-681902555.html
 
-
-git push origin branch (sube el codigo al branch)
+git push origin your-branch (sube el codigo al branch)
 git commit -a -m "message"
