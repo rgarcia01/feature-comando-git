@@ -93,5 +93,6 @@ git commit -a -m "message"
 Eliminar un branch Remoto:
 git push origin :the_remote_branch
 
-
-git push origin delete the_remote_branch
+Eliminacion branch local y remoto
+git branch -d prueba1
+git push origin :prueba1
