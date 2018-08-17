@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ##Lista de comandos útiles para Git
 
 ###Para clonar el repositorio de GitHub (sólo una vez):
@@ -89,3 +88,10 @@ https://confluence.atlassian.com/bitbucket/use-a-git-branch-to-merge-a-file-6819
 
 git push origin your-branch (sube el codigo al branch)
 git commit -a -m "message"
+
+
+Eliminar un branch Remoto:
+git push origin :the_remote_branch
+
+
+git push origin delete the_remote_branch
