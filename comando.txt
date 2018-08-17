@@ -1,0 +1,7 @@
+git add -A
+git commit ""
+git branch nombrBranch
+git branch
+
+
+git checkout 
