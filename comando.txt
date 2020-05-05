@@ -1,5 +1,3 @@
-
-
 Configuración Básica
 Configurar Nombre que salen en los commits
 
